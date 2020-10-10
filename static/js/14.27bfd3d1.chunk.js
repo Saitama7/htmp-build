@@ -1,0 +1,2 @@
+(this["webpackJsonphtmp-admin-frontend"]=this["webpackJsonphtmp-admin-frontend"]||[]).push([[14],{142:function(t,e,n){"use strict";n.r(e);var a=n(0),c=n.n(a),i=n(135),r=Object(i.a)((function(){return{root:{width:"100%",height:"100%"},content:{width:"100%",height:"100%"}}}));e.default=Object(a.memo)((function(t){var e=r(),n=t.children;return c.a.createElement("div",{className:e.root},c.a.createElement("main",{className:e.content},n))}))}}]);
+//# sourceMappingURL=14.27bfd3d1.chunk.js.map
